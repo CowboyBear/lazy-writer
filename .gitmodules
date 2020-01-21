@@ -1,0 +1,6 @@
+[submodule "template-app"]
+	path = template-app
+	url = git@github.com:CowboyBear/template-ng-app.git
+[submodule "lazy-writer-core"]
+	path = lazy-writer-core
+	url = git@github.com:CowboyBear/lazy-writer-core.git
